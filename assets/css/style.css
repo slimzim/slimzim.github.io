@@ -509,7 +509,7 @@ nav ul li a {
   color: #b8a07e;
 }
 
-#portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
+#portfolio .portfolio-item .portfolio-info .preview-link:hover , #portfolio .portfolio-item .portfolio-info .details-link:hover {
   color: #cab89f;
 }
 
